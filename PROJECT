@@ -1,0 +1,6 @@
+domain: infinitelab.ustc
+layout:
+- go.kubebuilder.io/v3
+projectName: nf-operator
+repo: github.com/bournezhma/nf-operator
+version: "3"
